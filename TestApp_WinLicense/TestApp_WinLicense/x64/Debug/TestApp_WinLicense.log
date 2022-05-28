@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  TestApp_WinLicense.cpp
+  TestApp_WinLicenseDlg.cpp
+  正在生成代码...
+pch.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:ICF”规范)
+  TestApp_WinLicense.vcxproj -> C:\Users\Administrator\Desktop\Crash_TestApp\TestApp_WinLicense\x64\Debug\TestApp_WinLicense_Debug.exe
+  C:\Users\Administrator\Desktop\Crash_TestApp\TestApp_WinLicense\x64\Debug\TestApp_WinLicense_Debug.exe
+  复制了 1 个文件
